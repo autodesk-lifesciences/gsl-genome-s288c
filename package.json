@@ -1,0 +1,13 @@
+{
+  "name": "gsl-genome-s288c",
+  "version": "1.0.0",
+  "description": "Package containing gene information for S288C genome. Source - https://github.com/Amyris/GSL/blob/master/data/lib/S288C/S288C_features.tab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "devDependencies": {
+    "json-loader": "^0.5.4"
+  }
+}
