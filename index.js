@@ -1,0 +1,1 @@
+module.exports = require('./S288C.json');
